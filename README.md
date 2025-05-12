@@ -46,7 +46,10 @@ Example datasets used may include:
 * Number of pregnancies
 * Blood sugar levels
 * Heart rate
-
+*Labour and delivery risks
+*Socioeconomic and Environmental factors
+*pregnancy related compliications
+*Pre-existing health conditions
 
 ---
 
@@ -119,6 +122,6 @@ Example datasets used may include:
 ---
 
 ## 🧑‍💻 Collaborators
-
+*Farhan Sani
 
 
