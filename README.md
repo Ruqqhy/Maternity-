@@ -110,6 +110,11 @@ Example datasets used may include:
 * Apply **deep learning** for time-series prediction
 * Develop a **web-based dashboard or API**
 * Collaborate with healthcare institutions for **clinical trials**
+* Deploy machine learning tools for early risk detection in clinics.
+* Expand datasets to include lifestyle and behavior metrics.
+* Integrate wearable tech data for real-time monitoring.
+* Screen for mental health as a routine part of antenatal care.
+
 
 ---
 
