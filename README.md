@@ -98,9 +98,9 @@ Example datasets used may include:
 
 ## 📈 Results (Example)
 
-| Model               | Accuracy | Precision | Recall | F1-Score | ROC-AUC |
-| ------------------- | -------- | --------- | ------ | -------- | ------- |
-| Logistic Regression | 99%      | 99%       | 99%    | 99%      | 0.99    |
+| Model               | Accuracy | Precision | Recall | F1-Score | 
+| ------------------- | -------- | --------- | ------ | -------- | 
+| Logistic Regression | 99%      | 99%       | 99%    | 99%      |    
 
 ---
 
