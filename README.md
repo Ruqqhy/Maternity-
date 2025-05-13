@@ -128,5 +128,6 @@ Example datasets used may include:
 
 ## 🧑‍💻 Collaborators
 *Farhan Sani
+*Abdul Majeed Yakubu 
 
 
